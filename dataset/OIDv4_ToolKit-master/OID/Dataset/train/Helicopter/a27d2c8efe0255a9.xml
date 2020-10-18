@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Helicopter</folder>
+  <filename>a27d2c8efe0255a9.jpg</filename>
+  <path>F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a27d2c8efe0255a9.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>683</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Helicopter</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>49</xmin>
+      <ymin>78</ymin>
+      <xmax>425</xmax>
+      <ymax>507</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>5l-MQ-1-Predator.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\5l-MQ-1-Predator.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>589</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

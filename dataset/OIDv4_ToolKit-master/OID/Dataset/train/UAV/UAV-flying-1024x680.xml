@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>UAV-flying-1024x680.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\UAV-flying-1024x680.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>209</ymin>
+			<xmax>959</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

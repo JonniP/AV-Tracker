@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Airplane</folder>
+  <filename>01affe5c688cd0db.jpg</filename>
+  <path>F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01affe5c688cd0db.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>685</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Airplane</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>6</xmin>
+      <ymin>186</ymin>
+      <xmax>988</xmax>
+      <ymax>488</ymax>
+    </bndbox>
+  </object>
+</annotation>

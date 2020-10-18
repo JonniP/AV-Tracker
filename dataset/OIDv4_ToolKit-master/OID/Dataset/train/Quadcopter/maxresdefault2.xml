@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>maxresdefault2.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\maxresdefault2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quadcopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>722</xmin>
+			<ymin>88</ymin>
+			<xmax>1264</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

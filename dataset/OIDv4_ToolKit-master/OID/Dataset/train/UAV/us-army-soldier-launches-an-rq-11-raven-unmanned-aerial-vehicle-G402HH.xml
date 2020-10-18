@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>us-army-soldier-launches-an-rq-11-raven-unmanned-aerial-vehicle-G402HH.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\us-army-soldier-launches-an-rq-11-raven-unmanned-aerial-vehicle-G402HH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>202</ymin>
+			<xmax>732</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

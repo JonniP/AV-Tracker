@@ -1,0 +1,536 @@
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\000b681fede38674.jpg 96,218,902,470,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\000d717eed4405cd.jpg 100,163,938,495,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\000ec620f2911dc2.jpg 49,356,233,394,0 74,227,906,487,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\001a3a235d4eba67.jpg 0,0,1023,600,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\001afd0dec437d9b.jpg 86,145,1002,513,0 501,208,1023,402,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\001c11e7903b3be8.jpg 19,271,307,430,0 214,234,1005,504,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\001c63ece613775c.jpg 0,0,1023,619,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\003f09605b30eafb.jpg 200,295,885,530,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\007a649c4c9c41b5.jpg 20,100,1011,494,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\007ac2ea519b0890.jpg 0,536,172,646,0 148,425,1004,726,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\007b45b4ab5bf37e.jpg 0,0,1023,528,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\008d7fc05724fa11.jpg 22,169,1002,459,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00a21fb1ed2af5e6.jpg 146,95,958,376,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00a54b66b3712f75.jpg 31,9,1011,481,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00a7df3e8b095d83.jpg 297,435,567,654,0 313,235,583,447,0 484,384,748,594,0 505,159,780,373,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00ab8f9082021207.jpg 112,70,953,490,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00af074ad16fe3a7.jpg 124,360,269,468,0 172,248,317,341,0 214,155,353,236,0 252,390,399,504,0 315,277,455,387,0 370,443,511,569,0 372,166,510,261,0 429,306,575,413,0 476,193,610,301,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00af1d32f18568b8.jpg 60,214,899,477,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00c359f294f7dcd9.jpg 92,211,981,523,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00c552baf9f473d5.jpg 113,0,573,227,0 329,724,413,767,0 520,300,988,569,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00d4a2999742bd29.jpg 11,120,1013,463,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00d5d4bdb44180de.jpg 134,219,849,415,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00d72484f05d5ad7.jpg 62,202,747,434,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00e49120c8b1e3df.jpg 47,143,984,513,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00e787663e6e5f9e.jpg 324,224,698,649,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00e8f9a38cc30129.jpg 102,135,341,458,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\00f120bfc1be013d.jpg 204,227,543,445,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01a11390a26a1695.jpg 43,190,945,538,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01a37e7db72c0b33.jpg 0,280,61,302,0 45,175,970,525,0 247,301,581,369,0 292,257,343,307,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01a56abd2f39e143.jpg 53,110,1002,566,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01a784a8465041d8.jpg 205,244,1009,509,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01a80fd0e05e47a7.jpg 19,73,1023,679,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01ab6b284642d087.jpg 0,245,885,524,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01aeef5a14d014d0.jpg 90,248,166,454,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01af766094efa105.jpg 266,295,845,507,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01affe5c688cd0db.jpg 6,186,988,488,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01b0b694a8cdcab8.jpg 113,156,927,463,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01b0feff6ef92330.jpg 0,230,623,474,0 0,335,1023,659,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01b1cdc380dbb1e9.jpg 0,348,436,503,0 0,336,917,511,0 519,135,1004,257,0 721,169,934,255,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01f55fd1f9d8b595.jpg 0,357,220,409,0 1,360,117,399,0 67,175,965,499,0 708,300,1023,429,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01f58fe454760bf4.jpg 40,165,976,519,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01f6c4d1dc9fe72b.jpg 40,146,973,451,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01f8f354b7845e2d.jpg 51,224,989,550,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\01f91f8bad375d5f.jpg 459,308,859,658,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02b2daa20b00f5d3.jpg 0,48,991,458,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02deb8d084d41040.jpg 5,147,1007,507,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02e1d1e9d83093ae.jpg 79,125,977,558,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02e3e466bd7258f6.jpg 108,225,996,563,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02e422daf7576a30.jpg 0,0,1023,632,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02e5d95eaf11adf4.jpg 3,5,954,746,0 897,489,1023,641,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\02eb5fe34a148e72.jpg 65,188,1017,466,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\03a3cbd0b9772d44.jpg 35,149,989,431,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\03a92b4ad1972f5a.jpg 15,281,602,561,0 119,326,919,580,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\03ae6b36e6ff250d.jpg 378,301,623,530,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\04b8df62dcc3b1b9.jpg 163,73,788,592,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\04c1baba2f9a032c.jpg 15,143,706,451,0 695,301,1009,430,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\08c6e6b9d30cdeaa.jpg 107,0,1023,679,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\08f820b1451b607d.jpg 222,195,716,382,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0a341b22954634b7.jpg 242,150,821,378,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0a369ef2afe27e39.jpg 56,169,818,421,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0a758df6330ef84a.jpg 50,34,950,433,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0a866e08d390b419.jpg 41,70,836,950,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0bc5129cd9b300be.jpg 21,94,1023,513,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0c72b3bcff4366ed.jpg 0,32,1023,643,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0c8d577d9b1b4776.jpg 351,280,578,445,0 615,218,859,371,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0cac34f041f1a98c.jpg 163,95,952,565,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0caecaa535df490c.jpg 88,138,970,558,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0d31ebbd65677f60.jpg 0,155,1010,415,0 3,339,50,371,0 155,341,188,356,0 786,299,821,323,0 851,299,905,327,0 918,294,1002,325,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0d40ab5e1330aad5.jpg 69,99,1023,484,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0da99b4452d45f91.jpg 10,140,1013,692,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0ebfcf0a33230b52.jpg 0,181,987,462,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0f227dba017361c3.jpg 80,131,763,387,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0f236ac959171cbd.jpg 12,7,150,51,0 442,0,866,103,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0f389b0677a2e2cd.jpg 6,376,285,479,0 97,342,809,523,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0f475bd85bec78e5.jpg 106,143,515,432,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0f82cd83203f8d65.jpg 145,110,943,472,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0fa717ff92364373.jpg 340,260,447,364,0 440,388,543,490,0 492,194,593,296,0 579,328,689,431,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0fb6aa804d4a2dcb.jpg 226,262,702,381,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0fb7f089c9504a6d.jpg 0,211,1023,623,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0fef93bfecf97c34.jpg 85,373,553,936,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\0ff517a1c66cac42.jpg 271,252,916,476,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1ac214d7322a6c77.jpg 55,4,863,1015,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1acc722b5cb9432e.jpg 152,193,949,453,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1ada8a05a5b0826d.jpg 0,66,957,444,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1bb15c88ee6b346e.jpg 0,234,52,294,0 0,81,1003,517,0 24,242,91,291,0 204,219,237,262,0 495,228,543,283,0 858,255,1023,336,0 957,353,1023,420,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1bbd42e0c7e7d3e6.jpg 20,148,979,519,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1bfedb2bda60bff8.jpg 138,152,884,472,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1d058147a695eedf.jpg 158,102,664,365,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1d0cd1af0d996759.jpg 0,219,708,457,0 925,405,1023,440,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1d1267644e26d5e9.jpg 408,241,1023,569,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1d1cf811168c6fca.jpg 236,294,712,450,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1d1e22a27e4d3b61.jpg 232,307,429,524,0 371,207,638,419,0 483,420,644,550,0 605,223,799,466,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1d909279b1d40671.jpg 66,282,275,359,0 244,217,897,427,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1da4a168c41e0476.jpg 22,220,1002,539,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1dae1b6799c1be27.jpg 5,462,994,722,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1ddeef70d2207f10.jpg 22,156,977,555,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1de38c572f9de719.jpg 38,352,664,512,0 166,208,984,487,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1df042e4de7cb2aa.jpg 0,163,702,714,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1df2ac824edc8ccc.jpg 0,174,801,413,0 691,315,756,347,0 874,311,929,331,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1df6c9fc4f0de96d.jpg 388,115,767,616,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\1dfb4a9e4014758f.jpg 224,273,572,419,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2bcbbd020fd106af.jpg 0,44,1023,601,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2bd19317dbef025f.jpg 89,210,929,487,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2bd1d69bb674629e.jpg 77,250,838,441,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2bd9fedb430b95b4.jpg 67,140,934,538,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2bdbbd5b0b3bdc0a.jpg 93,285,818,609,0 241,44,895,631,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2be02c8d6abb515d.jpg 127,213,885,459,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2bf7dc1cb17bd626.jpg 0,91,1023,496,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2c0bd2fcad16ce11.jpg 0,362,122,396,0 119,192,936,472,0 166,356,243,385,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2c2c793b42ed657c.jpg 0,348,17,359,0 29,348,49,359,0 96,346,115,358,0 122,345,141,359,0 140,348,169,357,0 175,341,207,360,0 435,114,948,293,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2c2e3bd47b1bcea1.jpg 0,111,1023,611,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2c3a51be196dadd8.jpg 438,288,757,420,0 467,253,785,379,0 480,144,800,324,0 487,97,816,260,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\2c3d2d77b55e7927.jpg 47,169,994,563,0 675,334,879,495,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\3cdc3f7d92af2c35.jpg 107,306,934,622,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\3ce1abf3cb46a929.jpg 35,175,968,514,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\3ce222651dd57330.jpg 130,375,919,582,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\3ceba3ecae00d143.jpg 597,270,1023,424,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\3cf887fe0e8b35bc.jpg 164,173,924,776,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\3cffe85841fb0deb.jpg 308,314,650,437,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\4d500d79c38db707.jpg 306,294,663,561,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\4d6f2699fec49651.jpg 143,399,957,622,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\4e56447103dde099.jpg 454,288,643,511,0 582,115,751,341,0 668,336,831,551,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\4e871766908439c8.jpg 136,89,911,530,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\4ea7a8a5390c4c74.jpg 307,53,601,256,0 284,392,555,556,0 510,450,768,626,0 587,198,860,387,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\4eaab7e5cbb84db1.jpg 19,245,1010,463,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6e025520dddbe34e.jpg 27,24,929,600,0 933,400,1023,472,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6e900e0dfd1480d4.jpg 58,117,960,450,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6e9761e606b58333.jpg 68,102,1014,424,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6f745236c328b289.jpg 27,123,1014,571,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6ff74e05a5c7b453.jpg 148,169,974,501,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6ff974ca4bc4bd89.jpg 37,192,993,473,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\6ffde086ebf95ee0.jpg 0,259,1014,512,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7af3cd7be78616e5.jpg 117,87,765,664,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7b1a41d92393e04c.jpg 40,219,905,536,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7b2ab4148a034acf.jpg 102,197,980,530,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7b4a3ee20a069b90.jpg 120,270,480,339,0 142,224,969,472,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7b5b326631e70802.jpg 52,261,860,490,0 354,488,541,571,0 545,482,721,571,0 753,486,952,566,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c26761e9a5ee63c.jpg 175,185,807,365,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c404ed444277101.jpg 126,185,967,517,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c467a3ba98a50c4.jpg 132,75,385,392,0 663,109,902,311,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c4892bf815a836a.jpg 630,72,983,334,0 169,233,561,456,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c7410ea7a7c6af6.jpg 328,261,442,364,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c7482c6cac2110f.jpg 0,0,1023,626,0 17,0,531,486,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c78342a3002a02b.jpg 50,175,1023,542,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7c922ff7e55f16a3.jpg 508,81,556,99,0 644,198,870,287,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7fc880796f39570c.jpg 192,490,588,836,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\7ffe221f035f87a8.jpg 139,99,851,507,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b3c3baa897586e8.jpg 198,116,702,651,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b55d1a6c64dcd83.jpg 109,147,967,539,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b56e36d5a74469a.jpg 60,29,982,301,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b5f7edebd5dbee5.jpg 97,270,760,601,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b5ff6d0953d1f8f.jpg 0,188,983,476,0 60,270,115,348,0 112,263,267,431,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b69a890e8b08288.jpg 6,147,349,316,0 243,446,582,593,0 636,182,991,331,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Airplane\8b9b37b460cbe995.jpg 186,236,781,487,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00a18f4d965072ec.jpg 159,20,812,376,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00ade19c26757cfc.jpg 70,0,855,968,1 537,280,858,718,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00af7b0e73812bf7.jpg 214,92,804,552,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00b24f33532bf4a3.jpg 238,196,866,444,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00ba6f39ab44f60d.jpg 587,318,1023,539,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00bb869e9098f66e.jpg 248,188,708,353,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00bdf77c430ca4c3.jpg 0,36,858,435,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00beb9c6483ec27f.jpg 478,192,940,400,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00c084f492181ef8.jpg 115,165,1023,401,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00c166304ba7c42e.jpg 687,81,818,131,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00c42819e24aba74.jpg 339,267,741,470,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00c6814ce44f0eb1.jpg 68,58,952,797,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00caae90c6c71eba.jpg 0,0,738,700,1 0,0,738,700,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00cf458020c5b21a.jpg 0,131,1023,561,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00d0a70ee233fd79.jpg 260,183,392,245,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00d1204d0dc20811.jpg 444,93,541,154,1 510,134,607,197,1 705,111,811,174,1 748,127,876,190,1 835,79,971,149,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00d2b0a65ff8afc3.jpg 0,60,983,345,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00d57760177fec68.jpg 78,252,682,727,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\00e0da919488915a.jpg 0,97,1023,493,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\027d454bf36bf252.jpg 5,224,1023,580,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\027fda9e531356a8.jpg 71,309,260,386,1 228,76,1009,450,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\028a68974e834bf3.jpg 0,82,1023,469,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\028f58539c68d542.jpg 168,473,627,621,1 336,131,892,348,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\06e913a9f118acd9.jpg 177,262,668,523,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\06fc1b177efd9f32.jpg 29,110,1024,565,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0739359cf0537d8f.jpg 345,112,778,251,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0b216ec3d718615e.jpg 81,0,1023,767,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0b33ac4e808a5c00.jpg 7,119,976,565,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0b66aae4552931ad.jpg 427,192,653,626,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0b76dd75633e516d.jpg 0,0,1023,584,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0ba3fa06d7ed52e7.jpg 345,275,522,350,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0ba93ed0f2b07ad3.jpg 97,0,1023,435,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0ba99701b6f950c7.jpg 0,55,774,410,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0bac2f294df22718.jpg 435,266,678,379,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0bc4b968b6b0b82d.jpg 103,207,911,478,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0bc8042d37b3d365.jpg 172,69,324,177,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0bdbb3069ee3e453.jpg 49,137,933,466,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0be2d0e4f6bae641.jpg 142,50,924,636,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0bf54f272751fad4.jpg 0,117,1014,505,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0c1f7cead7500aa1.jpg 99,147,825,400,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0c2f8d01a849edea.jpg 0,160,1023,557,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0c4bc7f2412bbc66.jpg 368,187,881,424,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0c5edb52805c48b5.jpg 456,76,1023,299,1 661,336,775,388,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0c6a9fa1ccf9a62d.jpg 0,16,1023,411,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0caa10991093223b.jpg 56,225,972,532,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0cb84e5342c96f0e.jpg 232,150,812,397,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0cb927240f91bd46.jpg 477,413,848,722,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0ccbe06087cec03b.jpg 41,38,995,374,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0cdfad7d5c4dbcca.jpg 233,127,807,424,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0ce0450b04ad01d2.jpg 0,56,948,373,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d1370c30f09e582.jpg 68,0,983,682,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d283cd6adbdf8b9.jpg 508,28,854,296,1 14,351,250,454,1 851,115,926,153,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d3664185d5de8e4.jpg 90,101,981,389,1 0,254,960,696,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d612c5de0171ee4.jpg 236,0,761,327,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d7db2e4e445756f.jpg 0,319,76,362,1 15,218,898,527,1 224,314,307,356,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d7f7425fe6650ee.jpg 487,159,929,478,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d8daff900b92eaf.jpg 164,87,931,569,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d938643bb9f4c0e.jpg 84,79,1023,549,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\0d9ee7189baa5714.jpg 209,188,801,518,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\10457c2fef7490ba.jpg 354,152,698,304,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\11418fdaae124ced.jpg 225,132,693,289,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\12737fb69e242c21.jpg 176,257,343,384,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\24b07bedc93db38d.jpg 108,140,728,491,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\24c207d6e333c0d4.jpg 73,118,984,547,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\24ce379186ac1dd6.jpg 24,0,1023,452,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\24d8eae0bf9874ad.jpg 90,311,981,514,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\2575bcca5374b747.jpg 56,101,1004,507,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\25b6e0b3a150f44b.jpg 75,42,973,443,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\25c06359ce91b0ec.jpg 156,260,893,783,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\25c1a8f65fb02b94.jpg 228,137,605,367,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\25c528a3d9a64b4e.jpg 320,184,646,560,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\25c73a50d3965ff8.jpg 339,175,831,423,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\26c20a554670b445.jpg 157,48,822,334,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\26ded4ab90c40567.jpg 107,137,902,534,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\26ecae23c364218f.jpg 0,74,812,767,1 332,41,1023,528,1 721,218,1023,477,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\26f105e973479bc5.jpg 0,131,1024,637,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\26f1940041b1d4ce.jpg 300,89,1018,338,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\26f480aedf1a7ebd.jpg 113,125,797,411,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\2744a343d1a9b0cf.jpg 92,204,928,515,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\27eee5fb40db2c68.jpg 301,200,916,506,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\28aa306386adfbf4.jpg 172,47,960,390,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\336c92919fcd5b9f.jpg 1,166,550,520,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\337b6cddda734f26.jpg 0,53,859,575,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\341aba2ffbb608ec.jpg 64,115,888,467,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\341db471b690ac6e.jpg 81,183,850,484,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3745ea4dd228c22c.jpg 42,170,954,559,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3900d3f90cdab6ed.jpg 372,81,1003,429,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3cb49671f3f437ef.jpg 58,79,929,481,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3cbe9a14652daeba.jpg 0,13,895,753,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3ccc08554c743e16.jpg 0,78,1024,577,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3d150d2565295073.jpg 148,254,883,540,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3d800b81e5e4e193.jpg 35,0,1023,552,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\3d9755acd39d3716.jpg 15,134,684,379,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\444b37665a3c38ac.jpg 86,95,986,590,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\448f8621514457fa.jpg 0,0,1023,679,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\450d5086caeda161.jpg 163,11,1021,624,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\455befc31966b73d.jpg 158,17,676,208,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\457ea5c1b65f6c73.jpg 49,297,477,485,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\458f2c0412b2a2bf.jpg 0,184,365,387,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\68cd66d7c2502be2.jpg 0,126,1023,705,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\68de392d5482408c.jpg 0,291,381,528,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\82c9095b45ac3891.jpg 191,29,687,355,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\82e6106a5c2085c5.jpg 424,210,605,288,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\82ea26d458174da2.jpg 216,73,357,163,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\83abaf8194bd12bd.jpg 262,26,810,628,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\85f60427906f12a7.jpg 0,41,1021,530,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\85fce7acda6e098c.jpg 304,224,908,418,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\92693f93923ab324.jpg 37,39,1024,636,1 0,426,132,476,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\9971d285df0283a8.jpg 52,98,735,474,1 620,236,1023,416,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a27d2c8efe0255a9.jpg 49,78,425,507,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a28ea2efdb33d90a.jpg 31,319,682,632,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a29b751c9b7f1717.jpg 195,135,427,220,1 476,83,1021,248,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a38a57e2812a8ca5.jpg 76,42,732,444,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a46d9c536565ede1.jpg 265,190,615,460,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a49e0edcac34ab8d.jpg 201,102,851,333,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\a53d896bd5b05627.jpg 342,290,698,630,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\ba019f9e1a24137a.jpg 221,219,717,447,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\ba3d8ea2c92b6934.jpg 93,0,1021,590,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\ba5725283ce7f09a.jpg 0,190,364,419,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\ba86b732da35dfa0.jpg 6,282,877,536,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\ba8be3bd9ea875a9.jpg 144,67,950,489,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\baa0ffe49f48a9d8.jpg 308,184,861,343,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\baa1303656f648d7.jpg 0,147,989,450,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\baac7cebf673536b.jpg 0,12,937,453,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\bab27ca0ce9343ab.jpg 97,82,1024,524,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\c2dec8b207c51ba7.jpg 17,228,1023,623,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\c3aa23ea4cc3806d.jpg 17,234,968,631,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\c3be2f78c915b4c6.jpg 0,62,998,537,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\c3d95a1b0411ad3e.jpg 148,98,716,461,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\c3ebbabd760c5db9.jpg 261,91,894,362,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\c8b2627bb7bde80a.jpg 44,72,968,616,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f25d228eeb62dd1c.jpg 0,0,1023,630,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f27d73f68b6ce3e8.jpg 296,275,637,412,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f30edd4350a20710.jpg 427,19,652,162,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f35fe28f98b7d26c.jpg 74,150,751,374,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f3fcbc763568d7f9.jpg 3,26,1020,575,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f4a7880ebbdad9e4.jpg 0,178,963,641,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f4fdb5f2bfc00ed7.jpg 148,95,953,491,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f57fa44eb8d0353b.jpg 360,564,608,819,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\f58b9edaf11038e4.jpg 380,120,676,265,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\fed2b8e922a1fe9d.jpg 384,179,589,333,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\fed3dbe08da5db67.jpg 4,29,728,471,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\fedcee276d132975.jpg 240,0,1023,559,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Helicopter\fefed109b28d35da.jpg 533,167,783,375,1
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\0.jpg 189,107,400,365,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\1.jpg 45,139,367,279,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\100.jpg 104,28,255,265,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\102.jpg 32,65,363,355,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\105.jpg 139,88,358,223,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\106.jpg 147,90,395,334,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\107.jpg 241,198,401,298,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\108.jpg 25,33,414,278,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\109.jpg 1,20,415,378,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\110.jpg 31,108,399,308,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\111.jpg 27,79,376,375,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\112.jpg 1,1,416,414,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\113.jpg 6,120,400,343,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\114.jpg 9,73,206,311,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\115.jpg 183,45,321,181,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\116.jpg 1,84,198,261,2 213,82,412,259,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\117.jpg 39,49,98,108,2 153,92,180,121,2 204,135,272,191,2 264,83,375,165,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\118.jpg 33,177,319,325,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\119.jpg 185,146,373,346,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\12.jpg 171,48,294,189,2 119,187,210,281,2 103,264,174,330,2 99,312,157,364,2 171,296,232,350,2 246,287,313,348,2 323,259,403,326,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\120.jpg 87,68,265,192,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\121.jpg 99,39,406,329,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\122.jpg 191,105,371,259,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\123.jpg 157,174,263,231,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\125.jpg 123,5,263,69,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\126.jpg 45,207,180,362,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\127.jpg 49,43,370,386,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\128.jpg 58,75,133,198,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\129.jpg 126,78,164,123,2 214,220,259,259,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\130.jpg 23,75,393,342,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\131.jpg 1,66,412,308,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\136.jpg 22,108,364,328,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\139.jpg 138,75,290,355,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\14.jpg 6,107,416,382,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\140.jpg 12,18,397,396,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\141.jpg 83,135,303,230,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\143.jpg 71,54,234,119,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\144.jpg 126,294,924,740,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\145.jpg 36,68,553,415,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\146.jpg 30,127,797,434,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\147.jpg 1746,305,3987,1649,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\148.jpg 4,237,1000,807,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\149.jpg 127,149,1196,923,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\15.jpg 165,73,378,177,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\150.jpg 193,131,1218,599,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\151.jpg 42,108,540,424,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\152.jpg 19,26,237,178,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\153.jpg 9,427,1998,1518,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\154.jpg 85,23,473,295,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\155.jpg 24,163,571,471,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\156.jpg 72,172,645,331,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\157.jpg 13,13,398,267,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\158.jpg 156,146,337,223,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\159.jpg 27,59,984,590,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\160.jpg 758,431,1154,650,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\161.jpg 117,9,293,136,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\162.jpg 117,265,297,348,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\170.jpg 265,18,717,269,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\173.jpg 102,322,933,606,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\174.jpg 5,199,732,600,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\18.jpg 91,69,261,159,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\19.jpg 67,84,416,385,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\2.jpg 162,214,269,276,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\20.jpg 8,41,409,393,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\21.jpg 145,159,285,331,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\22.jpg 3,121,413,295,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\23.jpg 28,105,380,264,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\24.jpg 99,111,328,286,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\25.jpg 91,122,200,172,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\26.jpg 66,107,360,337,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\27.jpg 1,48,416,340,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\28.jpg 63,29,356,295,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\3.jpg 139,74,264,125,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\31.jpg 38,5,387,406,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\32.jpg 23,117,383,369,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\33.jpg 45,74,383,332,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\34.jpg 134,67,159,79,2 195,50,377,118,2 302,174,344,184,2 140,134,201,150,2 224,127,237,135,2 99,142,115,149,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\35.jpg 61,20,335,391,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\36.jpg 31,85,390,416,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\37.jpg 89,240,176,365,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\38.jpg 113,197,259,287,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\39.jpg 51,160,239,313,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\4.jpg 144,117,292,270,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\40.jpg 205,56,332,157,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\41.jpg 142,105,386,260,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\42.jpg 22,48,133,140,2 102,159,328,270,2 219,17,399,149,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\43.jpg 1,96,413,326,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\44.jpg 162,208,220,252,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\45.jpg 109,121,181,196,2 198,147,229,180,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\46.jpg 1,68,416,415,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\47.jpg 249,132,401,212,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\49.jpg 20,130,396,273,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\5.jpg 97,42,348,325,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\50.jpg 74,148,329,377,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\51.jpg 65,11,303,249,2 278,77,378,188,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\52.jpg 313,141,360,179,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\53.jpg 80,32,162,79,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\54.jpg 28,42,387,330,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\55.jpg 17,51,399,359,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\57.jpg 59,114,356,279,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\58.jpg 94,134,322,302,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\6.jpg 124,87,335,346,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\60.jpg 183,1,271,138,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\61.jpg 1,1,416,415,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\62.jpg 32,92,367,274,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\68.jpg 1,1,235,323,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\70.jpg 54,85,387,388,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\71.jpg 1,95,405,319,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\72.jpg 70,117,318,328,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\73.jpg 26,92,194,185,2 196,162,263,194,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\74.jpg 86,112,324,338,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\75.jpg 33,38,394,340,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\76.jpg 95,90,338,306,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\77.jpg 7,113,410,352,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\78.jpg 70,23,359,333,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\79.jpg 8,125,380,298,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\79c956d5-51c7-4d61-b726-f2775124c53e.jpg 646,46,1125,344,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\8.jpg 162,161,221,229,2 322,162,373,231,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\80.jpg 139,189,274,249,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\81.jpg 18,103,362,314,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\82.jpg 32,112,280,223,2 230,184,365,240,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\83.jpg 1,94,410,342,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\84.jpg 36,115,319,240,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\87.jpg 111,136,386,251,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\88.jpg 30,93,384,324,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\89.jpg 7,72,409,353,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\9.jpg 30,79,392,290,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\90.jpg 22,81,415,210,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\91.jpg 1,22,177,111,2 215,135,265,168,2 268,87,298,105,2 324,80,389,129,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\93.jpg 82,125,331,342,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\94.jpg 76,34,411,314,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\95.jpg 76,13,229,166,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\96.jpg 91,122,123,141,2 242,34,264,50,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\97.jpg 49,47,378,348,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\98.jpg 12,111,415,415,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\99.jpg 24,49,395,375,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\DJIInspire1ProSet1-1024x610.jpg 474,54,761,224,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\Drone-587577.jpg 9,17,292,291,2 305,98,590,224,0
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\drone-drink-delivery.jpg 619,162,902,325,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\drone-nude-beach-796x445.jpg 532,20,645,105,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\Drone8.jpg 225,198,842,458,2 75,846,325,969,2 255,1069,1052,1409,2 902,616,1972,1082,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\drone_rescue.jpg 394,136,715,286,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\father-and-son-operating-the-drone-by-remote-control-at-the-beach-JA0G4D.jpg 472,195,587,266,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\focused_164844202-stock-photo-young-woman-boy-beach-flying.jpg 221,140,395,191,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\focused_166046606-stock-photo-young-woman-boy-beach-flying.jpg 183,80,325,124,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\hqdefault.jpg 120,45,477,241,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\images.jpg 77,50,218,117,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\maxresdefault.jpg 3,94,749,525,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\maxresdefault1.jpg 670,83,1274,354,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\maxresdefault2.jpg 722,88,1264,335,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\Norfolk+Wedding+Films+Race+Wedding+Videography.jpg 234,54,793,216,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\TSC.jpg 16,37,446,349,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\Quadcopter\what-is-a-drone-search-and-rescue-drone.jpg 332,205,905,527,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\070931-M-5827M-013.jpg 59,188,739,426,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\10.jpg 10,165,411,305,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\101.jpg 77,127,363,265,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\103.jpg 112,93,301,252,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\104.jpg 1,56,416,354,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\1078096850_0_691_2508_2048_1000x541_80_0_0_fc109e98d6ff18e4ebd80be6ac3562a9.jpg 26,85,1000,391,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\11.jpg 58,41,368,339,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\124.jpg 28,77,386,317,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\1280px-Luftwaffe_99-01_RQ-4B_EuroHawk_ILA_2012_1.jpg 23,179,1279,560,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\13.jpg 59,84,404,258,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\132.jpg 23,48,385,279,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\133.jpg 21,96,352,286,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\134.jpg 136,238,377,344,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\135.jpg 1,26,415,401,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\137.jpg 13,93,129,248,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\13723853_2059396750951295_3155118069550054500_o.jpg 369,33,632,229,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\138.jpg 17,30,379,355,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\142.jpg 1,70,408,379,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\1482706690_22.jpg 131,177,1243,606,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\16.jpg 11,73,415,319,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\163.jpg 192,171,939,428,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\164.jpg 33,18,243,99,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\166.jpg 122,499,686,688,3 227,676,557,844,3 221,858,601,988,3 430,1049,741,1187,3 635,722,1206,900,3 874,484,1692,756,3 995,975,1281,1123,3 1374,843,1806,1029,3 1766,708,2204,859,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\167.jpg 112,172,1250,532,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\168.jpg 19,113,735,485,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\169.jpg 980,196,2173,1210,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\17.jpg 123,37,323,216,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\171.jpg 41,30,237,104,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\172.jpg 211,84,337,127,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\22.jpg 1,127,391,371,3 395,63,797,294,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\29.jpg 41,105,388,320,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\2l-image-73.jpg 42,84,557,319,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\30.jpg 63,100,355,329,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\3a525007b58af48529c49ef756708d2a.jpg 2,8,1480,797,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\41NR0zjCtjL._AC_.jpg 32,4,457,270,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\4240760-3x2-xlarge.jpg 93,231,862,474,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\48.jpg 59,38,380,348,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\56.jpg 50,37,369,364,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\59.jpg 21,34,391,304,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\5l-MQ-1-Predator.jpg 1,1,589,399,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\63.jpg 72,164,348,308,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\648125_original.jpg 1,139,899,494,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\66.jpg 10,27,377,352,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\67.jpg 16,3,386,367,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\69.jpg 65,63,317,383,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\69181_nasamq9bnationalairspaceexpirement7_173229.jpg 10,29,471,236,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\69182_nasamq9bnationalairspaceexpirement_643418.jpg 60,11,429,306,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\7.jpg 21,87,386,318,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\7de1fa27605d83ea0a5afc455dcc2c9a.jpg 1,74,489,270,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\85.jpg 27,79,397,261,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\86.jpg 80,64,347,355,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\92.jpg 85,81,396,316,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\defense-large.jpg 7,42,710,270,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\furiya_650x410.jpg 74,154,613,347,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\hdkq0zh8mm7flxds9jnn.jpg 2,106,800,457,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\hermes-450-1068x524.jpg 1,6,1068,416,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\Hermes-450-drone-008.jpg 15,34,280,144,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\HTB1OqmUOVXXXXXLXFXXq6xXFXXXI.jpg 36,68,716,409,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\IAI-drone.jpg 1,16,864,458,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\images_(1).jpg 82,48,201,95,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\images_(2).jpg 20,1,205,107,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\images_(3).jpg 26,1,260,86,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\images_(4).jpg 5,8,176,62,3 37,105,133,164,2
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\images_(5).jpg 5,22,276,140,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\images_(6).jpg 32,21,300,117,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\large_thumbnail.jpg 2,110,907,511,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\MQ-1B-Predator-and-MQ-9-Reaper-Drone-300x228.jpg 5,5,293,56,3 1,96,300,227,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\MYFV07P09_16B.jpg 225,76,661,335,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\predator-drone-mn-1515_ef3de355b9c9f82906daff7945373995.jpg 108,163,1367,434,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\predator-incirlik-600x400.jpg 1,53,600,394,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\Raveng.jpg 1,34,532,356,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\Raven_UAV_flying.jpg 173,60,1013,727,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\RGYEBMVZ6NDQJKGMNGNSZ7OJRE.jpg 3,140,1200,578,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\RQ-11_Raven_1.jpg 213,423,723,700,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\s-l400.jpg 4,6,394,240,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\UAV-flying-1024x680.jpg 82,209,959,475,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\UAV_Vietnam_3.jpg 430,55,535,120,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\unnamed.jpg 1,52,418,206,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\unnamed1.jpg 94,114,397,240,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\unnamed2.jpg 20,143,450,299,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\us-army-soldier-launches-an-rq-11-raven-unmanned-aerial-vehicle-G402HH.jpg 398,202,732,442,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\US.jpg 192,84,644,410,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\Was3878929.jpg 9,247,1002,555,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\weborion-male-uav.jpg 279,64,1007,699,3
+F:\Projects\AVObjectTracking\dataset\OIDv4_ToolKit-master\OID\Dataset\train\UAV\wing_loong_ii_china_uav.jpg 33,34,1035,265,3 847,148,1070,251,3 451,67,825,218,0

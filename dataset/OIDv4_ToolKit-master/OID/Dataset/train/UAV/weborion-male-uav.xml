@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>weborion-male-uav.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\weborion-male-uav.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1442</width>
+		<height>721</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>64</ymin>
+			<xmax>1007</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

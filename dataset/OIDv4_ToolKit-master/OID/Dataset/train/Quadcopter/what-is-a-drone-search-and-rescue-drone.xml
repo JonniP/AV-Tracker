@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>what-is-a-drone-search-and-rescue-drone.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\what-is-a-drone-search-and-rescue-drone.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quadcopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>205</ymin>
+			<xmax>905</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

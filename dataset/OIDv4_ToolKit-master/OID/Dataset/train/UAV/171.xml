@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Drones</folder>
+	<filename>171.jpg</filename>
+	<path>F:\Projects\AVObjectTracking\Actual_dataset\Drones\171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>30</ymin>
+			<xmax>237</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

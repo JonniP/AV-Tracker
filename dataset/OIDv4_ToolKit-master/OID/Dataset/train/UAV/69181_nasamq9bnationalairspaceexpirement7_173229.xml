@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>69181_nasamq9bnationalairspaceexpirement7_173229.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\69181_nasamq9bnationalairspaceexpirement7_173229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>29</ymin>
+			<xmax>471</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

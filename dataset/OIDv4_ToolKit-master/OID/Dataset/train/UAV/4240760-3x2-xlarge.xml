@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>4240760-3x2-xlarge.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\4240760-3x2-xlarge.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>862</width>
+		<height>575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>231</ymin>
+			<xmax>862</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

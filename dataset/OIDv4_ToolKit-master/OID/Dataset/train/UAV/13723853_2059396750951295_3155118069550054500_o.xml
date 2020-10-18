@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>13723853_2059396750951295_3155118069550054500_o.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\13723853_2059396750951295_3155118069550054500_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>857</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>33</ymin>
+			<xmax>632</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

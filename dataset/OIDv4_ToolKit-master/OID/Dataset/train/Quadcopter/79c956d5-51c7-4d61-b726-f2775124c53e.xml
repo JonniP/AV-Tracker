@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>79c956d5-51c7-4d61-b726-f2775124c53e.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\79c956d5-51c7-4d61-b726-f2775124c53e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1180</width>
+		<height>842</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quadcopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>46</ymin>
+			<xmax>1125</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

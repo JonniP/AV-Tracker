@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Drones</folder>
+	<filename>75.jpg</filename>
+	<path>F:\Projects\AVObjectTracking\Actual_dataset\Drones\75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quadcopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>38</ymin>
+			<xmax>394</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

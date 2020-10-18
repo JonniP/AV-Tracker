@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NewImages</folder>
+	<filename>RQ-11_Raven_1.jpg</filename>
+	<path>C:\Users\Haara\Desktop\NewImages\RQ-11_Raven_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2022</width>
+		<height>1476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UAV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>423</ymin>
+			<xmax>723</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>
