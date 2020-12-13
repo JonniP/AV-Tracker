@@ -2,4 +2,6 @@
 *.png
 *.jpg
 *.jpeg
+Saved_videos/*
+AVvenv/
 !yolo\keras-yolo3\keras-yolo3\model_data\yolo.h5
