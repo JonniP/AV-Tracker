@@ -1,5 +1,11 @@
 # AV-Tracker
 Neural network for aerial vehicle tracking.
+ 
+This project is currently in development and only offers subpar features currently. Issues will contain more information about the 
+state of the project and features being implemented.
+
+The goal is to recognize and track aerial vehicles from video. YOLO architecture is used for recognition, while SORT will be used for
+tracking. Currently tracking is not supported.
 
 ## Running steps
 - Clone the repository.
